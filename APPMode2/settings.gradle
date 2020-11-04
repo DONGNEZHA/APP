@@ -1,0 +1,2 @@
+rootProject.name='APPMode2'
+include ':app'
